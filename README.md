@@ -10,5 +10,8 @@
 <br>
 
 
-<p align="center"><img src="walk.gif" width="150" alt="뿌리"></p>
+<p align="center">
+  <a href="https://github.com/jeonjimin-root/computer-pet-release/releases/latest/download/ComputerPet-Setup-1.0.1.exe">
+  <img src="walk.gif" width="150" alt="뿌리">
+</p>
 <p align="center"><img src="taskbar.png" width="820" alt=""></p>
