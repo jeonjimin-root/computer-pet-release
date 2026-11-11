@@ -16,7 +16,9 @@
 <br>
 
 <details open>
-<summary><h3>설치</h3></summary>
+<summary><b>설치</b></summary>
+
+<br>
 
 1. 위의 **설치 파일 받기**를 누릅니다.
 2. 받은 파일을 열고 <kbd>다음</kbd> → <kbd>마침</kbd>을 누릅니다.
@@ -27,7 +29,9 @@
 </details>
 
 <details>
-<summary><h3>경고가 뜨면</h3></summary>
+<summary><b>경고가 뜨면</b></summary>
+
+<br>
 
 개인이 만든 프로그램이라 받을 때와 실행할 때 한 번씩 뜰 수 있습니다.
 
@@ -39,7 +43,9 @@
 </details>
 
 <details>
-<summary><h3>AI 연결</h3></summary>
+<summary><b>AI 연결</b></summary>
+
+<br>
 
 둘 중 하나만 연결하면 됩니다. 연결해야 다음 단계로 넘어갑니다.
 
@@ -55,7 +61,9 @@
 </details>
 
 <details>
-<summary><h3>뿌리가 하는 일</h3></summary>
+<summary><b>뿌리가 하는 일</b></summary>
+
+<br>
 
 - 일정, 할 일, 메모를 챙기고 시간에 맞춰 알려 줍니다.
 - 말을 걸면 대답합니다. "화요일 3시 치과"라고 하면 일정으로 기억합니다.
@@ -69,6 +77,6 @@
 ---
 
 <p align="center">
-  오류가 생기면 <a href="https://github.com/jeonjimin-root/computer-pet-release/issues/new">Issues</a>에 남겨 주십시오.<br>
-  <sub>GitHub 로그인이 필요합니다.</sub>
+  오류가 생기면 <a href="https://open.kakao.com/me/RootDev">카카오톡 오픈채팅</a>으로 알려 주십시오.<br>
+  <sub>GitHub 계정이 있으면 <a href="https://github.com/jeonjimin-root/computer-pet-release/issues/new">Issues</a>에 남겨도 됩니다.</sub>
 </p>
