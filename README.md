@@ -15,7 +15,7 @@
 
 <br>
 
-<details open>
+<details>
 <summary><b>설치</b></summary>
 
 <br>
