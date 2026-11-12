@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/jeonjimin-root/computer-pet-release/releases/latest/download/ComputerPet-Setup-1.4.0.exe"><img src="banner.png" width="900" alt="Computer Pet — 바탕화면에서 같이 지내는 강아지, 뿌리"></a>
+  <a href="https://github.com/jeonjimin-root/computer-pet-release/releases/latest/download/ComputerPet-Setup-1.4.1.exe"><img src="banner.png" width="900" alt="Computer Pet — 바탕화면에서 같이 지내는 강아지, 뿌리"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/jeonjimin-root/computer-pet-release/releases/latest/download/ComputerPet-Setup-1.4.0.exe"><img src="download.png" width="300" alt="설치 파일 받기"></a>
+  <a href="https://github.com/jeonjimin-root/computer-pet-release/releases/latest/download/ComputerPet-Setup-1.4.1.exe"><img src="download.png" width="300" alt="설치 파일 받기"></a>
   <br><sub>Windows 10 · 11</sub>
 </p>
 
